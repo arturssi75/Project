@@ -13,9 +13,11 @@
 &emsp;**Piegādes apstiprinājums un atskaites:** Reģistrē piegādes faktu, iegūst saņēmēja apstiprinājumu un ģenerē atskaites par piegādes laikiem un citiem parametriem.
 
 &emsp;**Klientu apkalpošanas uzlabošana:** Nodrošina klientiem piekļuvi reāllaika informācijai par viņu kravas atrašanās vietu un stāvokli, uzlabojot apmierinātību un uzticību.
+
+
 ![UML_Project_TREB_Baltgalvis](https://github.com/user-attachments/assets/79a8746a-de8c-424b-a725-a4f7e2895200)
 
-```
+
 **Paskaidrojums:**
 
 * **Project/**: Šī ir projekta saknes mape.
@@ -36,7 +38,7 @@
     * `DeliveryReport.cs`: Piegādes atskaites modelis.
 * **Services/**: Šajā mapē atrodas servisi, kas satur biznesa loģiku.
     * `NotificationService.cs`: Paziņojumu sūtīšanas serviss.
-* **Program.cs**: Šis ir programmas ieejas punkts.
-* **Startup.cs**: Šis fails konfigurē lietojumprogrammas pakalpojumus un cauruļvadu.
-* **Appsettings.json**: Šis fails satur konfigurācijas iestatījumus.
-* **TransportReallaikaBizness.csproj**: Šis ir projekta fails.
+* **`Program.cs`**: Šis ir programmas ieejas punkts.
+* **`Startup.cs`**: Šis fails konfigurē lietojumprogrammas pakalpojumus un cauruļvadu.
+* **`Appsettings.json`**: Šis fails satur konfigurācijas iestatījumus.
+* **`Project.csproj`**: Šis ir projekta fails.
