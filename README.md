@@ -1,6 +1,6 @@
 **Kopsavilkums:**
 
-&emsp;Šis ir .NET Core Web API projekts, kas paredzēts reāllaika kravas izsekošanas sistēmas izveidei. Sistēma izmanto sensorus, GPS un citas tehnoloģijas, lai nodrošinātu precīzu un savlaicīgu informāciju par kravas atrašanās vietu, stāvokli un paredzamo piegādes laiku. Tā ietver kravas reģistrāciju, maršruta plānošanu, reāllaika izsekošanu, paziņojumus un piegādes apstiprinājumu.
+&emsp;Šis ir .NET Web API projekts, kas paredzēts reāllaika kravas izsekošanas sistēmas izveidei. Sistēma izmanto sensorus, GPS un citas tehnoloģijas, lai nodrošinātu precīzu un savlaicīgu informāciju par kravas atrašanās vietu, stāvokli un paredzamo piegādes laiku. Tā ietver kravas reģistrāciju, maršruta plānošanu, reāllaika izsekošanu, paziņojumus un piegādes apstiprinājumu.
 
 **Galvenie biznesa pielietojuma varianti:**
 
